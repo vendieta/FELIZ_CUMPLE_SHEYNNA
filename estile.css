@@ -1,0 +1,81 @@
+body, html {
+
+    height: 100%;
+    margin: 0;
+    background-image: linear-gradient(to right top, #1ed760, #2fd857, #3dd94e, #49d944, #54da38, #54d230, #54ca28, #53c21f, #48b01b, #3d9e17, #338c12, #297b0e);
+
+  }
+
+
+#h1-1 #p-1{
+
+    white-space: nowrap;
+
+  }
+
+#h1-1 {
+
+  font-size: 57px;
+
+   
+}
+
+#h1-2 {
+
+  font-size: 40px;
+
+}
+
+#a-1{
+
+  width: 50px;
+  height: 50px;
+  margin-top: 10;
+
+}
+
+#p-2 {
+
+  font-size: 40px;
+
+}
+
+#p-1 {
+
+    display: grid;
+    font-size: 37px;
+
+}
+
+#img-1 {
+    
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+
+}
+
+body{
+
+    background-color: rgb(243, 171, 37);
+
+}
+
+#div-1 {
+
+    width: 300px;
+    text-align: center;
+
+}
+
+#centrado{
+
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* Opcional: ajustar el ancho del div */
+  width: 300px;
+
+
+}
