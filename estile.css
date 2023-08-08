@@ -1,6 +1,7 @@
 body, html {
 
     height: 100%;
+    width: 100%;
     margin: 0;
     background-image: linear-gradient(to right top, #1ed760, #2fd857, #3dd94e, #49d944, #54da38, #54d230, #54ca28, #53c21f, #48b01b, #3d9e17, #338c12, #297b0e);
 
@@ -22,7 +23,7 @@ body, html {
 
 #h1-2 {
 
-  font-size: 40px;
+  font-size: 38px;
 
 }
 
@@ -36,7 +37,7 @@ body, html {
 
 #p-2 {
 
-  font-size: 40px;
+  font-size: 30px;
 
 }
 
@@ -78,4 +79,10 @@ body{
   width: 300px;
 
 
+}
+
+#img-2 {
+
+  width: 50px;
+  height: 70px;
 }
